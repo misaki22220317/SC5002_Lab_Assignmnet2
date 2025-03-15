@@ -1,5 +1,5 @@
 # SC5002_Lab_Assignmnet2
- ## Lab Assigment 2 for SC5002
+ ## Lab Assigment 2 for SC5002 (Written by Misaki and Tom (Wenbo))
  ### Project Overview 
  Our project aims at prediction of CO2 emissions by ships travelling in Nigerian and understanding the use cases of linear regression and ridge regression with this real-world example. 
  
